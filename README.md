@@ -8,6 +8,8 @@ Here's some of the projects that I've worked on -
 
 - https://github.com/kanghosaeyo/PostureMaxx
 
+- https://github.com/Oasis-NEU/f24-group28
+
 
 <!--
 **joshua-channnn/joshua-channnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
