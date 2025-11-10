@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 Here's some of the projects that I've worked on -
-https://github.com/elbert-p/NUguessr 
-https://github.com/mtkarnik99/Ai-gymbro
-https://github.com/kanghosaeyo/PostureMaxx
+
+- https://github.com/elbert-p/NUguessr 
+
+- https://github.com/mtkarnik99/Ai-gymbro
+
+- https://github.com/kanghosaeyo/PostureMaxx
 
 
 <!--
